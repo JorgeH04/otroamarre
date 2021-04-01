@@ -590,8 +590,10 @@ body:after {
     -webkit-transition: .3s all ease;
     -o-transition: .3s all ease;
     transition: .3s all ease; }
-  .sticky-wrapper .site-navbar {
-    border-bottom: 1px solid rgba(255, 255, 255, 0.2); }
+
+    .sticky-wrapper .site-navbar {
+      border-bottomm: 1px solid rgba(255, 255, 255, 0.2); }
+
     .sticky-wrapper .site-navbar .site-menu-toggle {
       color: #fff; }
     .sticky-wrapper .site-navbar .site-logo a {
