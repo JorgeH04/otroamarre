@@ -61,7 +61,9 @@ body {
   line-height: 1.7;
   color: gray;
   font-weight: 400;
-  font-size: 1rem; }
+  font-size: 1rem; 
+  background-color: #000;
+}
 
 ::-moz-selection {
   background: #000;
@@ -382,6 +384,7 @@ body:after {
         margin-top: 20px;
         margin-left: 0px;
         background: #fff;
+
         -webkit-transition: 0.2s 0s;
         -o-transition: 0.2s 0s;
         transition: 0.2s 0s; }
