@@ -608,7 +608,7 @@ body:after {
     -webkit-box-shadow: 4px 0 20px -5px rgba(0, 0, 0, 0.1);
     box-shadow: 4px 0 20px -5px rgba(0, 0, 0, 0.1); }
     .sticky-wrapper.is-sticky .site-navbar .site-menu-toggle {
-       color: #e3e3e3;
+      color: violet;
     }
     .sticky-wrapper.is-sticky .site-navbar .site-logo a {
       color: violet;; }
