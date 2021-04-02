@@ -1,11 +1,12 @@
 .cart-items {
     color: black;
     position: absolute;
-     top: -45%;
-    right: -45%;
+    top: -45%;
+    right: -75%;
     padding: 0.2rem 0.3rem;
     font-size: 15px;
     background: #e3e3e3;
+
   }
 
 .content_cl_wpp{
